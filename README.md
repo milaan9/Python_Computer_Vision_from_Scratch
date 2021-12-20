@@ -22,11 +22,7 @@
 
 ## Introduction 👋
 
-Data types specify the different sizes and values that can be stored in the variable. For example, Python stores numbers, strings, and a list of values using different data types.
-
-Python is a dynamically typed language; therefore, we do not need to specify the variable’s type while declaring it. Whatever value we assign to the variable based on that data type will be automatically assigned. For example, **`name = 'Arthur'`** here Python will store the name variable as a **`str`** data type.
-
-No matter what value is stored in a variable (object), a variable can be any type like **`int`**, **`float`**, **`str`**, **`list`**, **`set`**, **`tuple`**, **`dict`**, **`bool`**, etc.
+This repository explores the variety of techniques commonly used to analyze and interpret images. It also describes challenging real-world applications where vision is being successfully used, both for specialized applications such as medical imaging, and for fun, consumer-level tasks such as image editing and stitching, which students can apply to their own personal photos and videos.
 
 ---
 
